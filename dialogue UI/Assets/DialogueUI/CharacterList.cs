@@ -10,9 +10,9 @@ public class CharacterInformation
 {
 	public string m_characterName;
 	public Sprite m_characterImage;
-	public string m_characterColor;
+	public Color m_characterColor;
 
-	public CharacterInformation(string characterName, Sprite characterImage, string characterColor) 
+	public CharacterInformation(string characterName, Sprite characterImage, Color characterColor) 
 	{ 
 		m_characterName = characterName;
 		m_characterImage = characterImage;

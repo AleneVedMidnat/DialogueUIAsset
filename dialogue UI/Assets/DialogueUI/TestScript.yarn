@@ -8,5 +8,12 @@ two: i have absolutely no idea, i'm writing this script before it works at absol
 one: isn't this the kind of thing you write after?
 two: but then how would i test it?
 one: good question.
+-> player: right now im trying to work out options
+    one: this is actually a test to see if it goes to the right branch!
+    two: hey it does!
+-> player: the thing is that if i dont put a character name it wont work 
+    one: i really hope thats fixed now, infact thats what im testing
+-> player: ill have to work on that later
+    one: it has been worked on.
 
 ===
